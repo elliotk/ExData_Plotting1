@@ -1,7 +1,11 @@
 #!/usr/bin/env Rscript
 
-# Usage:
-# $ Rscript plot3.R
+# Author: Elliot Kleiman
+# File..: plot3.R
+# Desc..: File to analyze course project data
+# Date..: Fri Dec  5 20:45:02 EST 2014 
+# Usage.: $ Rscript plot3.R # execute from a Unix or Linux shell, or
+#           source(plot3.R) # execute from R console 
 
 ## 0. Download data ---------------------------
 

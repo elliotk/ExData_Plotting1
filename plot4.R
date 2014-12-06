@@ -1,7 +1,11 @@
 #!/usr/bin/env Rscript
 
-# Usage:
-# $ Rscript plot4.R
+# Author: Elliot Kleiman
+# File..: plot4.R
+# Desc..: File to analyze course project data
+# Date..: Fri Dec  5 20:45:02 EST 2014 
+# Usage.: $ Rscript plot4.R # execute from a Unix or Linux shell, or
+#           source(plot4.R) # execute from R console 
 
 ## 0. Download data ---------------------------
 
